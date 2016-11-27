@@ -1,0 +1,23 @@
+body {
+  margin-top: 50px;
+}
+
+#wrapper {
+  width: 960px;
+  height: 1000px;
+  margin: 10px auto;
+}
+
+div div{
+  margin: 0;
+  width: 15px;
+  height: 15px;
+  float: left;
+  outline: 1px solid gray;
+}
+
+
+button {
+ display: block;
+ margin-bottom: 10px;
+}
